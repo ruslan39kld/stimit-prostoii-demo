@@ -1,0 +1,6 @@
+{
+  "name": "AI-анализ простоев (OEE)",
+  "description": "Демо-стенд агентной системы AI-анализа простоев: шесть агентов разбирают данные смены, считают OEE и переводят потери в рубли.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
